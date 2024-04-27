@@ -1,0 +1,6 @@
+﻿services:
+  agile waveagilewave:
+    image: agile waveagilewave
+    build:
+      context: .
+      dockerfile: Dockerfile
